@@ -1,6 +1,6 @@
 # Hello Voice
 
-This is a basic Twilio [Voice TwiML](https://www.twilio.com/docs/voice/twiml) template Function that will return TwiML to say "Hello World"
+This is forked from the basic Twilio [Voice TwiML](https://www.twilio.com/docs/voice/twiml) template Function that will return TwiML to say "Hello World"
 
 ## Environment variables
 
