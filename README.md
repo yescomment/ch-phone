@@ -1,11 +1,11 @@
-# Hello Voice
+# 1-~~800~~252-3592-113(592)
 
-This is forked from the basic Twilio [Voice TwiML](https://www.twilio.com/docs/voice/twiml) template Function that will return TwiML to say "Hello World"
+## _yeah!_
 
-## Environment variables
+Please call [1-252-3592-113(592)](tel:+12523592113) for more details.
 
-This Function requires no environment variables to run successfully.
+This is a tribute to [CHILD](https://www.childischild.org).
 
-## Parameters
+If you have access to +1(800) 359-2113 or the Bulgarian number +359 211-3592, please get in touch.
 
-This Function requires no URL or POST parameters to run successfully.
+Donated by [`// no comment LLC`](https://nocomment.llc)
